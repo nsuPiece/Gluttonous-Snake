@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/Gluttonous Snake/Food.cpp
+Food.h
+D:/Code/Gluttonous Snake/Food.h
+Windows.h
+-
+
+D:/Code/Gluttonous Snake/Food.h
+bits/stdc++.h
+-
+Wall.h
+D:/Code/Gluttonous Snake/Wall.h
+
+D:/Code/Gluttonous Snake/Snake.cpp
+Snake.h
+D:/Code/Gluttonous Snake/Snake.h
+Windows.h
+-
+
+D:/Code/Gluttonous Snake/Snake.h
+bits/stdc++.h
+-
+Wall.h
+D:/Code/Gluttonous Snake/Wall.h
+Food.h
+D:/Code/Gluttonous Snake/Food.h
+
+D:/Code/Gluttonous Snake/Wall.cpp
+Wall.h
+D:/Code/Gluttonous Snake/Wall.h
+
+D:/Code/Gluttonous Snake/Wall.h
+bits/stdc++.h
+-
+
+D:/Code/Gluttonous Snake/main.cpp
+bits/stdc++.h
+-
+Wall.h
+D:/Code/Gluttonous Snake/Wall.h
+Snake.h
+D:/Code/Gluttonous Snake/Snake.h
+Food.h
+D:/Code/Gluttonous Snake/Food.h
+unistd.h
+-
+conio.h
+-
+Windows.h
+-
+
