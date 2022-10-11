@@ -30,10 +30,10 @@ void Wall::printWall()
         {
             cout<<mp[i][j]<<" ";
         }
-        if(i==1) cout<<"     W:â†‘";
-        if(i==2) cout<<"     S:â†“";
-        if(i==3) cout<<"     A:â†";
-        if(i==4) cout<<"     D:â†’";
+        if(i==1) cout<<"     W:¡ü";
+        if(i==2) cout<<"     S:¡ý";
+        if(i==3) cout<<"     A:¡û";
+        if(i==4) cout<<"     D:¡ú";
         if(i==6) cout<<"create by Piece";
         if(i==7) cout<<"   score   :   "<<score;
         if(i==8) cout<<" difficulty:   "<<difficulty;
